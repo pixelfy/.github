@@ -1,7 +1,7 @@
 # > PixelFy_ 🚀
 
 <p align="center">
-  <img src="./img/logo.png?raw=true" alt="PixelFy Logo" width="300">
+  <img src="../img/logo.png?raw=true" alt="PixelFy Logo" width="300">
 </p>
 
 <p align="center">
