@@ -17,7 +17,7 @@
 
 ---
 
-### > ¿qué hacemos?
+### > ¿Qué hacemos?
 
 Potenciamos tu negocio mediante soluciones avanzadas que eliminan la fricción y escalan tu visión:
 
@@ -35,7 +35,7 @@ Ayudamos a las empresas a entender su información. Convertimos datos crudos en 
 
 ---
 
-### > ¿cómo trabajamos?
+### > ¿Cómo trabajamos?
 
 Nuestra dinámica se basa en la transparencia y el acompañamiento constante:
 
@@ -45,7 +45,7 @@ Nuestra dinámica se basa en la transparencia y el acompañamiento constante:
 
 ---
 
-### > ¿qué hemos hecho?
+### > ¿Qué hemos hecho?
 
 Explora nuestros repositorios para ver cómo estamos transformando ideas en código real. Cada commit es un paso hacia la resolución total.
 
@@ -53,7 +53,7 @@ Explora nuestros repositorios para ver cómo estamos transformando ideas en cód
 
 ---
 
-### > ¡te esperamos!_
+### > ¡Te esperamos!
 
 ¿Tienes un reto empresarial o una idea que necesita cobrar vida? ¡Hagamos que suceda!
 
