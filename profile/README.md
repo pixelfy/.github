@@ -1,60 +1,61 @@
-# > PixelFy_ 🚀
+# > PixelFy_
 
 <p align="center">
   <img src="../img/logo.svg?raw=true" alt="PixelFy Logo" width="300">
 </p>
 
 <p align="center">
-  <strong>Transformando lógica cruda en resolución digital.</strong><br>
-  <em>Engineering to a digital resolution, pixel by pixel.</em>
+  <strong>Tu socio tecnológico en el desarrollo de software, IA y automatización.</strong><br>
+  <em>Diseñamos tecnología que aprende y evoluciona con vos.</em>
 </p>
 
 ---
 
-### 👋 Hola, somos PixelFy_
+### > PixelFy_ es más que código
 
-Seguramente lo has visto: empresas con un potencial enorme frenadas por procesos manuales, software que se cae o datos que nadie entiende. Es frustrante, ¿verdad? 
-
-En **PixelFy_**, nacimos en un garage digital con una idea clara: **limpiar el ruido**. Tomamos esos problemas "borrosos" y los convertimos en soluciones de **alta definición**. 
-
-**No solo escribimos código; diseñamos el futuro de tu operación, píxel por píxel.** 🎯
+> **Construimos tu presente y tu futuro digital píxel a píxel.**
 
 ---
 
-### [ LO QUE HACEMOS POR TI ] 🛠️
+### > ¿qué hacemos?
 
-Si te apasiona la eficiencia tanto como a nosotros, esto te va a interesar:
+Potenciamos tu negocio mediante soluciones avanzadas que eliminan la fricción y escalan tu visión:
 
-* **`SOFTWARE_WITH_SOUL`** 💻
-  Desarrollamos aplicaciones que la gente *ama* usar. Sin funciones innecesarias, solo código limpio, rápido y escalable.
-  
-* **`AUTOMATION_MAGIC`** ⚡
-  ¿Tareas repetitivas? Las pixelizamos. Creamos tuberías de CI/CD y flujos de trabajo que trabajan mientras tú descansas. Automatizar no es un lujo, es tu libertad.
+#### 💻 **Desarrollo de Software a Medida**
 
-* **`DATA_IN_HD`** 🧠
-  Convertimos tu caos de datos en una hoja de ruta clara. Desde SQL robusto hasta agentes de IA que realmente aportan valor. Claridad total, cero adivinanzas.
+Desde el concepto inicial y el diseño UI hasta el despliegue final. Creamos aplicaciones multiplataforma (Web, Desktop, Cloud) con arquitecturas limpias y una funcionalidad impecable.
 
----
+#### ⚡ **Automatización de Procesos & CI/CD**
 
-### [ NUESTRA VIBRA ] 🧪
+Sustituimos tareas manuales y obsoletas por flujos de trabajo digitales. Unificamos información dispersa y digitalizamos procesos operativos para que tu equipo se enfoque en lo que realmente importa: **crecer**.
 
-Nos alejamos de las reuniones de tres horas y los reportes aburridos. Preferimos:
-1. **Acción sobre palabras:** Un commit vale más que mil presentaciones.
-2. **Simplicidad radical:** Si se puede simplificar, lo haremos.
-3. **Pasión por el detalle:** Porque en el píxel correcto está la diferencia entre un error y un éxito.
+#### 📊 **Inteligencia de Negocio & Datos**
+
+Ayudamos a las empresas a entender su información. Convertimos datos crudos en cuadros de mando (Dashboards) accionables. Claridad total para una toma de decisiones inteligente.
 
 ---
 
-### [ ¿CONECTAMOS? ] 🔌
+### > ¿cómo trabajamos?
 
-¿Tienes un proyecto en mente o simplemente quieres hablar de cómo la tecnología puede escalar tu negocio? No seas un extraño. 
+Nuestra dinámica se basa en la transparencia y el acompañamiento constante:
 
-* **GitHub:** Explora lo que estamos construyendo.
-* **Status:** `OPEN_FOR_COLLABORATION` 🟢
+1.  **Definición & Estrategia:** Entendemos tu necesidad real antes de escribir la primera línea.
+2.  **Arquitectura Granular:** Diseñamos soluciones robustas, seguras y escalables.
+3.  **Lanzamiento & Evolución:** No te dejamos solo tras el despliegue; aseguramos que tu tecnología evolucione con el mercado.
 
-**Hagamos que las cosas sucedan. Hagámoslo en alta resolución.** ---
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Vibe-Startup_Garage-00FF41?style=for-the-badge&logo=rocket" alt="Vibe">
-  <img src="https://img.shields.io/badge/Focus-Human_Tech-00FF41?style=for-the-badge" alt="Focus">
-</p>
+### > ¿qué hemos hecho?
+
+Explora nuestros repositorios para ver cómo estamos transformando ideas en código real. Cada commit es un paso hacia la resolución total.
+
+> **Status:** `READY_TO_PARTNER` 🟢
+
+---
+
+### > ¡te esperamos!_
+
+¿Tienes un reto empresarial o una idea que necesita cobrar vida? ¡Hagamos que suceda!
+
+* **GitHub:** [github.com/pixelfy](https://github.com/pixelfy)
+* **Web:** [pixelfy.github.io](https://pixelfy.github.io)
